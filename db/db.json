@@ -1,1 +1,70 @@
-{}
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "franky"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Dolor sed.",
+      "body": "Non qui quia nihil. Est odit iusto alias nemo. In qui doloribus et. Blanditiis sit voluptas autem deleniti pariatur vel beatae porro nisi. Doloribus sunt dignissimos et explicabo qui sed magnam aut.\n \rReiciendis sed iure commodi nesciunt qui quo iusto deleniti. Corrupti aspernatur et in sed mollitia sit ab molestiae sit. Praesentium labore expedita quasi et atque laudantium et possimus. Accusantium dolorum modi non voluptas officia cumque provident dolor ex. Minus aliquam harum nesciunt nobis repudiandae qui sint.\n \rEst et ducimus molestiae odio. Repellendus sunt culpa quaerat voluptatum totam. Quasi nihil aliquid maiores quo. Ea delectus quo."
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Vitae repellat deleniti et.",
+      "body": "Consequatur natus autem molestiae expedita quis architecto recusandae sunt ipsum. Praesentium consequatur eaque. Commodi nisi fugiat odit eos beatae perspiciatis iste impedit. Fugit blanditiis alias quae esse. Sint qui non culpa voluptatum enim. Qui consectetur laboriosam.\n \rDolorem in est ex eum numquam sit rem quis labore. Id consequatur doloribus minus incidunt consectetur. Iste fuga eos blanditiis corrupti quia deserunt. Ipsa excepturi voluptatem inventore et sapiente.\n \rPerferendis necessitatibus magnam architecto tenetur ut et. Qui rerum sed nulla vero. Officiis fugiat dolorum enim dolor corrupti rerum hic. Cumque ea laboriosam sed. Non necessitatibus ut excepturi id voluptatum enim id. Ea provident voluptatum est alias officia."
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Est ducimus non aut.",
+      "body": "Similique et vitae repudiandae velit. Nemo modi quo temporibus rem. Sit suscipit sit dolore recusandae expedita nihil doloribus at. Doloribus natus veniam aut exercitationem veritatis quo rerum deleniti.\n \rDoloremque fuga perferendis blanditiis rerum sapiente architecto impedit quas. Iste culpa commodi assumenda doloremque ut quae. Ut delectus quisquam numquam quasi quasi id cupiditate. Repellendus ut cumque blanditiis eaque quas natus placeat qui laborum. Perspiciatis est eum possimus vel voluptatibus corporis qui neque dolore.\n \rInventore sed unde et recusandae hic sed optio accusamus. Ab et et atque voluptates. Id exercitationem sequi et. Minus laboriosam est facere."
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "title": "Ab.",
+      "body": "Doloribus a eum suscipit et. Enim suscipit quis expedita molestiae quod eaque sunt. Aut harum adipisci hic molestiae. Enim est sequi commodi.\n \rEst architecto sunt ut. Animi adipisci assumenda. Hic commodi illum. Ea inventore id aliquam ex sapiente alias autem doloribus.\n \rMaxime nihil et in. Perspiciatis in aut. Placeat quo dolorum quibusdam nam ab. Beatae impedit error rerum ea laboriosam. Aperiam rerum porro pariatur aut eos nisi. Ex non modi dolor ut maiores."
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "Voluptatibus est.",
+      "body": "Enim iusto recusandae. Veniam voluptas magni velit. Fugiat nostrum sit occaecati et.\n \rUllam non omnis odio pariatur est. Voluptatem laborum optio omnis molestiae aut. Incidunt sit illum.\n \rDolorum aliquam quia. Voluptas sed et. Consequatur dolor reiciendis accusamus ut nam. Aut voluptatem facere earum non dolore distinctio temporibus. Voluptatem aut a voluptatem."
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "title": "Sunt qui tenetur atque.",
+      "body": "Laboriosam assumenda atque id similique eius quibusdam repudiandae. Beatae tempore necessitatibus ut iste totam id. Quidem sed ipsum officiis velit magnam.\n \rDelectus quae fuga iure eum. Quidem vero non blanditiis sequi rerum aut molestiae suscipit necessitatibus. Repudiandae quaerat culpa facere illo consequatur quas non.\n \rEst tempora rerum fugiat aliquam. Et aut quo excepturi illo. Rerum suscipit aspernatur qui neque necessitatibus. Velit eius eum dolores nemo corrupti."
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "title": "Et fugit facilis aspernatur.",
+      "body": "Corrupti saepe minus dolorem doloribus hic blanditiis tempore repellat enim. Necessitatibus ex vel voluptas nobis eaque deserunt magnam aliquid excepturi. Impedit omnis iste sed enim quisquam iusto porro suscipit. Nihil nostrum quo. Quia tenetur mollitia corrupti error et laborum dolor rem suscipit.\n \rVoluptatibus molestiae et porro autem voluptas vitae vero aut deleniti. Non voluptatem voluptate magni autem. Ut provident reiciendis iste ipsam dolor aut. Rerum provident quo omnis itaque ut et.\n \rConsequatur eius aut molestiae voluptatem asperiores rem. Sed omnis laudantium quis enim. Excepturi vitae corporis explicabo et similique voluptatem aut."
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "title": "Inventore quis rem.",
+      "body": "Ipsum necessitatibus in molestiae sint adipisci doloribus tempore temporibus soluta. Rerum eaque inventore aut soluta quibusdam. Deleniti voluptatum ut et qui et.\n \rAut non voluptas. Vel esse est qui hic cumque aut ea. Ex et dolorum doloribus voluptatum. Voluptatibus consequatur labore est.\n \rEligendi libero ullam nemo laborum ex. Cumque enim voluptates exercitationem placeat expedita nihil explicabo ut. Nam a animi hic voluptas magni. Rerum minus fugit animi. Officia sint quo."
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "title": "Vitae.",
+      "body": "Consequuntur aspernatur quod beatae. Ea neque nam eius dolore. Iusto similique eius aut ullam. Dicta et id consequatur magnam placeat rerum dolore quibusdam.\n \rMagni recusandae culpa sit reiciendis soluta cumque sint. Sit pariatur quas quis et porro. Sit mollitia praesentium sint molestiae delectus. Necessitatibus molestiae quo. Molestiae tenetur exercitationem adipisci ut quae magnam facilis aperiam.\n \rLaborum aliquid labore facere. Reiciendis harum aut tempora doloribus sit a. Vel eum reiciendis id vitae. Facilis porro maxime aut aut."
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "title": "Odit.",
+      "body": "Enim et rerum accusantium facilis aut rerum et laborum ex. Illo aliquam corrupti placeat voluptatem dolores quaerat. Eos sed quia quo quasi quidem et soluta quisquam. Vitae aut similique dignissimos. Velit ea nihil.\n \rTempora sit soluta unde occaecati ex facere est qui. Et dolores earum. Occaecati vel doloremque suscipit quisquam. Natus eos consequatur pariatur sunt nisi sit. Aut ipsa neque consectetur. Qui eius suscipit et dolore maiores ea veritatis.\n \rConsectetur et laborum. Voluptatem quia totam incidunt reprehenderit qui nisi et harum pariatur. Enim eveniet deserunt ut alias ad ad consectetur. Omnis consequuntur quasi cum tenetur."
+    }
+  ]
+}
